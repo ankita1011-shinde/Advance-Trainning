@@ -1,0 +1,15 @@
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.csproj.AssemblyReference.cache
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.AssemblyInfoInputs.cache
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.AssemblyInfo.cs
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.csproj.CoreCompileInputs.cache
+D:\C# folder\AdvanceTraining2May\bin\Debug\net6.0\AdvanceTraining2May.exe
+D:\C# folder\AdvanceTraining2May\bin\Debug\net6.0\AdvanceTraining2May.deps.json
+D:\C# folder\AdvanceTraining2May\bin\Debug\net6.0\AdvanceTraining2May.runtimeconfig.json
+D:\C# folder\AdvanceTraining2May\bin\Debug\net6.0\AdvanceTraining2May.dll
+D:\C# folder\AdvanceTraining2May\bin\Debug\net6.0\AdvanceTraining2May.pdb
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.dll
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\refint\AdvanceTraining2May.dll
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.pdb
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\AdvanceTraining2May.genruntimeconfig.cache
+D:\C# folder\AdvanceTraining2May\obj\Debug\net6.0\ref\AdvanceTraining2May.dll
